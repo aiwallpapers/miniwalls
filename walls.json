@@ -1,5 +1,21 @@
 [
 {
+		"name": "#526",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/aiwallpapers/miniwalls/main/526.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/aiwallpapers/miniwalls/main/526s.jpg",
+		"downloadable" : "false",
+		"collections": "Abstract"
+	},
+{
+		"name": "#527",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/aiwallpapers/miniwalls/main/527.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/aiwallpapers/miniwalls/main/527s.jpg",
+		"downloadable" : "false",
+		"collections": "Minimal"
+	},
+{
 		"name": "#524",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/aiwallpapers/miniwalls/main/524.jpg",
@@ -13,7 +29,7 @@
 		"url": "https://raw.githubusercontent.com/aiwallpapers/miniwalls/main/525.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/aiwallpapers/miniwalls/main/525s.jpg",
 		"downloadable" : "false",
-		"collections": "Landscape"
+		"collections": "Abstract"
 	},
 {
 		"name": "#522",
